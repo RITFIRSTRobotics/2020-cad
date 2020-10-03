@@ -2,4 +2,5 @@ Screws (8-32) - https://www.mcmaster.com/92210A194/, $5.51 per 100, 1 pack
 Top and Bottom (3/16") - https://www.mcmaster.com/8574K273/, $30.09 per 12" x 36", 1 sheet
 Sides and Front (3/8") - https://www.mcmaster.com/1749K139-1749K133/, $2.79 per foor, 6 feet
 
+$52.34, not including shipping
 Should make ~8 frames in worst case, no nesting scenario
