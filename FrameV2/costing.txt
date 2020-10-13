@@ -4,3 +4,9 @@ Sides and Front (3/8") - https://www.mcmaster.com/1749K139-1749K133/, $2.79 per 
 
 $52.34, not including shipping
 Should make ~8 frames in worst case, no nesting scenario
+
+
+Additional Hardware for Stocking
+https://www.mcmaster.com/90631A009/ - locknut, $3.16 per 100
+https://www.mcmaster.com/90480A009/ - nut, $1.65 per 100
+https://www.mcmaster.com/92949A199/ - 1" bolt, $7.57 per 100
