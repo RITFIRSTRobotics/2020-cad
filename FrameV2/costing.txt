@@ -7,9 +7,15 @@ Should make ~8 frames in worst case, no nesting scenario
 
 
 Additional Hardware for Stocking
-https://www.mcmaster.com/90631A009/ - locknut, $3.16 per 100
-https://www.mcmaster.com/90480A009/ - nut, $1.65 per 100
-https://www.mcmaster.com/92949A199/ - 1" bolt, $7.57 per 100
-https://www.mcmaster.com/92949A194/ - 1/2" bolt, $5.54 per 100
+https://www.mcmaster.com/90631A009/ - 8-32 locknut, $3.16 per 100
+https://www.mcmaster.com/90480A009/ - 8-32 nut, $1.65 per 100
+https://www.mcmaster.com/92949A199/ - 1" 8-32 bolt, $7.57 per 100
+https://www.mcmaster.com/92949A194/ - 1/2" 8-32 bolt, $5.54 per 100
 https://www.mcmaster.com/97171A150/ - threaded inserts, $11.25 per 50
 https://www.mcmaster.com/92160A123/ - installation tip for inserts, $15.55 for 1
+https://www.mcmaster.com/92141A009/ - 8-32 standard washers, $2.07 per 100
+https://www.mcmaster.com/90313A102/ - 8-32 oversize washers, $7.98 per 100
+https://www.mcmaster.com/92146A545/ - 8-32 lock washers, $1.66 per 100
+
+
+stocking total: $56.43
